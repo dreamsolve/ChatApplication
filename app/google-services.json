@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "299853665545",
+    "firebase_url": "https://chatmihnea.firebaseio.com",
+    "project_id": "chatmihnea",
+    "storage_bucket": "chatmihnea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299853665545:android:8da244e46520ae39",
+        "android_client_info": {
+          "package_name": "com.MihneaChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299853665545-dlmv8ubtb175sjslj29dormprls0e2p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.MihneaChat",
+            "certificate_hash": "5ca78c5aedc82804e54d2e0b86235078ef726d61"
+          }
+        },
+        {
+          "client_id": "299853665545-qgmt8amv9q4l948ot5pkllrnng8ka3el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7t3Eh67hbvFplV-qS4Md5Q-ZX7z15Bvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299853665545-qgmt8amv9q4l948ot5pkllrnng8ka3el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
